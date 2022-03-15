@@ -21,7 +21,7 @@ $DKU
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1647328605,,"wq"
+|2,0,1647336603,,"wq"
 :q
 |2,0,1647328529,,"q"
 :1,$s/dankook univercity/DKU/g
@@ -126,28 +126,32 @@ $DKU
 |3,1,36,0,1,0,1647328578,"c"
 
 # File marks:
-'0  3  2  ~/.gitignore
-|4,48,3,2,1647328605,"~/.gitignore"
-'1  3  0  ~/.gitignore
-|4,49,3,0,1647328588,"~/.gitignore"
-'2  3  6  ~/.gitignore
-|4,50,3,6,1647328561,"~/.gitignore"
-'3  3  6  ~/.gitignore
-|4,51,3,6,1647328561,"~/.gitignore"
-'4  3  0  ~/test
-|4,52,3,0,1639964759,"~/test"
-'5  22  0  ~/
-|4,53,22,0,1638127241,"~/"
-'6  158  0  /tmp/tutordqfuLd
-|4,54,158,0,1637214745,"/tmp/tutordqfuLd"
-'7  1  0  /tmp/tutorFszFJL
-|4,55,1,0,1637214678,"/tmp/tutorFszFJL"
-'8  1  0  /tmp/tutorUT8vpM
-|4,56,1,0,1637214660,"/tmp/tutorUT8vpM"
-'9  1  0  ~/tutor
-|4,57,1,0,1637214651,"~/tutor"
+'0  2  11  ~/.gitignore
+|4,48,2,11,1647336603,"~/.gitignore"
+'1  4  2  ~/.gitignore
+|4,49,4,2,1647328605,"~/.gitignore"
+'2  3  2  ~/.gitignore
+|4,50,3,2,1647328605,"~/.gitignore"
+'3  4  0  ~/.gitignore
+|4,51,4,0,1647328588,"~/.gitignore"
+'4  3  0  ~/.gitignore
+|4,52,3,0,1647328588,"~/.gitignore"
+'5  4  6  ~/.gitignore
+|4,53,4,6,1647328561,"~/.gitignore"
+'6  4  6  ~/.gitignore
+|4,54,4,6,1647328561,"~/.gitignore"
+'7  3  6  ~/.gitignore
+|4,55,3,6,1647328561,"~/.gitignore"
+'8  3  6  ~/.gitignore
+|4,56,3,6,1647328561,"~/.gitignore"
+'9  3  0  ~/test
+|4,57,3,0,1639964759,"~/test"
 
 # Jumplist (newest first):
+-'  2  11  ~/.gitignore
+|4,39,2,11,1647336603,"~/.gitignore"
+-'  4  2  ~/.gitignore
+|4,39,4,2,1647336583,"~/.gitignore"
 -'  3  2  ~/.gitignore
 |4,39,3,2,1647328605,"~/.gitignore"
 -'  3  0  ~/.gitignore
@@ -160,6 +164,8 @@ $DKU
 |4,39,1,0,1647328539,"~/.gitignore"
 -'  1  0  ~/.gitignore
 |4,39,1,0,1647328539,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1647328539,"~/.gitignore"
 -'  3  0  ~/test
 |4,39,3,0,1639964759,"~/test"
 -'  3  0  ~/test
@@ -192,6 +198,70 @@ $DKU
 |4,39,3,0,1639964759,"~/test"
 -'  3  0  ~/test
 |4,39,3,0,1639964759,"~/test"
+-'  3  0  ~/test
+|4,39,3,0,1639964759,"~/test"
+-'  3  0  ~/test
+|4,39,3,0,1639964759,"~/test"
+-'  3  0  ~/test
+|4,39,3,0,1639964759,"~/test"
+-'  3  0  ~/test
+|4,39,3,0,1639964759,"~/test"
+-'  3  0  ~/test
+|4,39,3,0,1639964759,"~/test"
+-'  3  0  ~/test
+|4,39,3,0,1639964759,"~/test"
+-'  3  0  ~/test
+|4,39,3,0,1639964759,"~/test"
+-'  3  0  ~/test
+|4,39,3,0,1639964759,"~/test"
+-'  3  0  ~/test
+|4,39,3,0,1639964759,"~/test"
+-'  3  0  ~/test
+|4,39,3,0,1639964759,"~/test"
+-'  3  0  ~/test
+|4,39,3,0,1639964759,"~/test"
+-'  3  0  ~/test
+|4,39,3,0,1639964759,"~/test"
+-'  3  0  ~/test
+|4,39,3,0,1639964759,"~/test"
+-'  3  0  ~/test
+|4,39,3,0,1639964759,"~/test"
+-'  3  0  ~/test
+|4,39,3,0,1639964759,"~/test"
+-'  3  0  ~/test
+|4,39,3,0,1639964759,"~/test"
+-'  1  0  ~/test
+|4,39,1,0,1639964754,"~/test"
+-'  1  0  ~/test
+|4,39,1,0,1639964754,"~/test"
+-'  1  0  ~/test
+|4,39,1,0,1639964754,"~/test"
+-'  1  0  ~/test
+|4,39,1,0,1639964754,"~/test"
+-'  1  0  ~/test
+|4,39,1,0,1639964754,"~/test"
+-'  1  0  ~/test
+|4,39,1,0,1639964754,"~/test"
+-'  1  0  ~/test
+|4,39,1,0,1639964754,"~/test"
+-'  1  0  ~/test
+|4,39,1,0,1639964754,"~/test"
+-'  1  0  ~/test
+|4,39,1,0,1639964754,"~/test"
+-'  1  0  ~/test
+|4,39,1,0,1639964754,"~/test"
+-'  1  0  ~/test
+|4,39,1,0,1639964754,"~/test"
+-'  1  0  ~/test
+|4,39,1,0,1639964754,"~/test"
+-'  1  0  ~/test
+|4,39,1,0,1639964754,"~/test"
+-'  1  0  ~/test
+|4,39,1,0,1639964754,"~/test"
+-'  1  0  ~/test
+|4,39,1,0,1639964754,"~/test"
+-'  1  0  ~/test
+|4,39,1,0,1639964754,"~/test"
 -'  1  0  ~/test
 |4,39,1,0,1639964754,"~/test"
 -'  1  0  ~/test
@@ -278,85 +348,16 @@ $DKU
 |4,39,22,0,1638127241,"~/"
 -'  22  0  ~/
 |4,39,22,0,1638127241,"~/"
--'  22  0  ~/
-|4,39,22,0,1638127241,"~/"
--'  22  0  ~/
-|4,39,22,0,1638127241,"~/"
--'  22  0  ~/
-|4,39,22,0,1638127241,"~/"
--'  22  0  ~/
-|4,39,22,0,1638127241,"~/"
--'  22  0  ~/
-|4,39,22,0,1638127241,"~/"
--'  158  0  /tmp/tutordqfuLd
-|4,39,158,0,1637214745,"/tmp/tutordqfuLd"
--'  158  0  /tmp/tutordqfuLd
-|4,39,158,0,1637214745,"/tmp/tutordqfuLd"
--'  158  0  /tmp/tutordqfuLd
-|4,39,158,0,1637214745,"/tmp/tutordqfuLd"
--'  158  0  /tmp/tutordqfuLd
-|4,39,158,0,1637214745,"/tmp/tutordqfuLd"
--'  158  0  /tmp/tutordqfuLd
-|4,39,158,0,1637214745,"/tmp/tutordqfuLd"
--'  158  0  /tmp/tutordqfuLd
-|4,39,158,0,1637214745,"/tmp/tutordqfuLd"
--'  158  0  /tmp/tutordqfuLd
-|4,39,158,0,1637214745,"/tmp/tutordqfuLd"
--'  158  0  /tmp/tutordqfuLd
-|4,39,158,0,1637214745,"/tmp/tutordqfuLd"
--'  158  0  /tmp/tutordqfuLd
-|4,39,158,0,1637214745,"/tmp/tutordqfuLd"
--'  158  0  /tmp/tutordqfuLd
-|4,39,158,0,1637214745,"/tmp/tutordqfuLd"
--'  158  0  /tmp/tutordqfuLd
-|4,39,158,0,1637214745,"/tmp/tutordqfuLd"
--'  158  0  /tmp/tutordqfuLd
-|4,39,158,0,1637214745,"/tmp/tutordqfuLd"
--'  158  0  /tmp/tutordqfuLd
-|4,39,158,0,1637214745,"/tmp/tutordqfuLd"
--'  158  0  /tmp/tutordqfuLd
-|4,39,158,0,1637214745,"/tmp/tutordqfuLd"
--'  158  0  /tmp/tutordqfuLd
-|4,39,158,0,1637214745,"/tmp/tutordqfuLd"
--'  158  0  /tmp/tutordqfuLd
-|4,39,158,0,1637214745,"/tmp/tutordqfuLd"
--'  158  0  /tmp/tutordqfuLd
-|4,39,158,0,1637214745,"/tmp/tutordqfuLd"
--'  158  0  /tmp/tutordqfuLd
-|4,39,158,0,1637214745,"/tmp/tutordqfuLd"
--'  158  0  /tmp/tutordqfuLd
-|4,39,158,0,1637214745,"/tmp/tutordqfuLd"
--'  158  0  /tmp/tutordqfuLd
-|4,39,158,0,1637214745,"/tmp/tutordqfuLd"
--'  158  0  /tmp/tutordqfuLd
-|4,39,158,0,1637214745,"/tmp/tutordqfuLd"
--'  158  0  /tmp/tutordqfuLd
-|4,39,158,0,1637214745,"/tmp/tutordqfuLd"
--'  158  0  /tmp/tutordqfuLd
-|4,39,158,0,1637214745,"/tmp/tutordqfuLd"
--'  158  0  /tmp/tutordqfuLd
-|4,39,158,0,1637214745,"/tmp/tutordqfuLd"
--'  158  0  /tmp/tutordqfuLd
-|4,39,158,0,1637214745,"/tmp/tutordqfuLd"
--'  158  0  /tmp/tutordqfuLd
-|4,39,158,0,1637214745,"/tmp/tutordqfuLd"
--'  158  0  /tmp/tutordqfuLd
-|4,39,158,0,1637214745,"/tmp/tutordqfuLd"
--'  158  0  /tmp/tutordqfuLd
-|4,39,158,0,1637214745,"/tmp/tutordqfuLd"
--'  158  0  /tmp/tutordqfuLd
-|4,39,158,0,1637214745,"/tmp/tutordqfuLd"
--'  158  0  /tmp/tutordqfuLd
-|4,39,158,0,1637214745,"/tmp/tutordqfuLd"
 
 # History of marks within files (newest to oldest):
 
 > ~/.gitignore
-	*	1647328605	0
-	"	3	2
-	^	3	3
-	.	3	2
-	+	3	2
+	*	1647336602	0
+	"	2	11
+	^	2	12
+	.	2	11
+	+	4	2
+	+	2	11
 
 > ~/test
 	*	1639964754	0

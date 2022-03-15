@@ -206,3 +206,89 @@ uname -a
 cd ~
 sudo apt install linux-tools-5.4.0-77-generic hwdata
 sudo update-alternatives --install /usr/local/bin/usbip usbip /usr/lib/linux-tools/5.4.0-77-generic/usbip 20
+cd ..
+lsusb
+cd ..
+cd ~
+git init
+ls
+git add .
+git reset
+vim
+vim .gitignore
+vim .gitignore 
+git add .
+git status
+git commit -m 220315_wsl_basic_local
+git config --global user.email noj7413@naver.com
+git config --global user.name nodang
+git config --list
+git status
+git add .
+git log --oneline
+git commit -m 220315_wsl_basic
+git branch -M master
+git remote add origin https://github.com/nodang/wsl_ubuntu_20.04.git
+git push -u origin main
+git remote add origin https://github.com/nodang/wsl_ubuntu_20.04.git
+git push -u origin main
+git push -u origin master
+sudo apt-get install git
+git config --global credential.helper "/mnt/c/Program\ Files/Git/mingw64/libexec/git-core/git-credential-manager-core.exe"
+git config --global credential.https://dev.azure.com.useHttpPath true
+git push -u origin master
+clone https://github.com/Slamtec/rplidar_sdk
+git clone https://github.com/Slamtec/rplidar_sdk
+ls
+cd rplidar_sdk/
+ls
+make
+ls
+lsusb
+ultra_simple 003
+cd ..
+ls
+cd rplidar_sdk/
+ls
+make
+ultra_simple
+ultra_simple /dev/ttyUSB0
+ls
+cd output/
+ls
+sudo ./ultra_simple --channel -serial /dev/ttyUSB0 115200
+cd ..
+make
+cd output/
+ls
+cd Linux/
+ls
+cd Release/
+ls
+make
+sudo ./ultra_simple --channel -serial /dev/ttyUSB0 115200
+sudo ./ultra_simple --channel -serial /dev/ttyUSB3 115200
+sudo ./ultra_simple --channel -serial /dev/ttyUSB2 115200
+sudo ./ultra_simple --channel -serial /dev/ttyUSB1 115200
+sudo ./ultra_simple --channel --serial /dev/ttyUSB0 115200
+sudo ./ultra_simple --channel --serial /dev/ttyUSB3 115200
+sudo ./ultra_simple --channel --serial /dev/ttyUSB0 115200
+lsusb
+sudo ./ultra_simple --channel --serial /dev/ttyUSB14 115200
+ls tty
+dmesg | grep tty
+stty -F /dev/ttyS0
+stty -F /dev/tty0
+sudo ./ultra_simple --channel --serial /dev/tty0 115200
+ls -l
+ls -l /dev/
+ls -l /dev/tty
+stty -F /dev/tty0
+dmesg | grep tty
+dmesg | grep ttyS
+dmesg | grep ttyU
+dmesg | grep tt
+sudo ./ultra_simple --channel --serial /dev/ttyS0 115200
+sudo ./ultra_simple --channel --serial /dev/tty0 115200
+./ultra_simple --channel --serial /dev/tty0 115200
+ultra_simple /dev/tty0

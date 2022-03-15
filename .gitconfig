@@ -1,3 +1,7 @@
 [user]
 	email = noj7413@naver.com
 	name = nodang
+[credential]
+	helper = /mnt/c/Program\\ Files/Git/mingw64/libexec/git-core/git-credential-manager-core.exe
+[credential "https://dev.azure.com"]
+	useHttpPath = true
